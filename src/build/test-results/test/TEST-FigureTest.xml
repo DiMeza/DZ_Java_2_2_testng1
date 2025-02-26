@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FigureTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2025-01-16T05:21:18" hostname="DIMONH" time="0.048">
+  <properties/>
+  <testcase name="testCircleArea[0](1.0, 3.14159)" classname="FigureTest" time="0.007"/>
+  <testcase name="testCircleArea[1](2.0, 12.56636)" classname="FigureTest" time="0.0"/>
+  <testcase name="testCircleArea[2](3.0, 28.27431)" classname="FigureTest" time="0.0"/>
+  <testcase name="testCirclePerimeter[0](1.0, 6.28318)" classname="FigureTest" time="0.001"/>
+  <testcase name="testCirclePerimeter[1](2.0, 12.56636)" classname="FigureTest" time="0.002"/>
+  <testcase name="testCirclePerimeter[2](3.0, 18.849539999999998)" classname="FigureTest" time="0.001"/>
+  <testcase name="testRectangleArea[0](2.0, 3.0, 6.0)" classname="FigureTest" time="0.002"/>
+  <testcase name="testRectangleArea[1](4.0, 5.0, 20.0)" classname="FigureTest" time="0.0"/>
+  <testcase name="testRectangleArea[2](10.0, 15.0, 150.0)" classname="FigureTest" time="0.001"/>
+  <testcase name="testRectanglePerimeter[0](2.0, 3.0, 10.0)" classname="FigureTest" time="0.001"/>
+  <testcase name="testRectanglePerimeter[1](4.0, 5.0, 18.0)" classname="FigureTest" time="0.002"/>
+  <testcase name="testRectanglePerimeter[2](10.0, 15.0, 50.0)" classname="FigureTest" time="0.0"/>
+  <testcase name="testSquareArea[0](2.0, 4.0)" classname="FigureTest" time="0.001"/>
+  <testcase name="testSquareArea[1](3.0, 9.0)" classname="FigureTest" time="0.0"/>
+  <testcase name="testSquareArea[2](5.0, 25.0)" classname="FigureTest" time="0.0"/>
+  <testcase name="testSquarePerimeter[0](2.0, 8.0)" classname="FigureTest" time="0.0"/>
+  <testcase name="testSquarePerimeter[1](3.0, 12.0)" classname="FigureTest" time="0.0"/>
+  <testcase name="testSquarePerimeter[2](5.0, 20.0)" classname="FigureTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

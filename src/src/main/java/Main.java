@@ -1,10 +1,14 @@
-import java.io.File;
+import geometricfigures.Circle;
+import geometricfigures.GeometricFigure;
+import geometricfigures.Rectangle;
+import geometricfigures.Square;
+
 import java.io.FileReader;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import geometricfigures.*;
+
 public class Main {
     public static void main(String[] args) {
         List<GeometricFigure> figures = new ArrayList<>();
